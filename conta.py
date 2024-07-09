@@ -34,7 +34,7 @@ person = Usuario()
 name = person.fullname()
 user = person.user()
 email = person.email()
-password = person.password
+password = person.password()
 
 # try:
 #     driver.get("https://www.instagram.com/accounts/emailsignup/")

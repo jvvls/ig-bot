@@ -37,9 +37,10 @@ class Usuario:
         random_string += random.choices(characters, k=length - 4)
         
         random.shuffle(random_string)
-        
-        return ''.join(random_string)
 
+        random_string = ''.join(random_string)
+
+        return random_string
 usuario = Usuario()
 print(usuario.fullname())  
 print(usuario.user())  

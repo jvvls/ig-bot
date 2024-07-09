@@ -1,0 +1,4 @@
+Eliel Silva 2556eliel_silva2556 A1b#C2d$E3f&G4
+João Santos : vou fazer ainda 7joão_santos1360 <bound method Usuario.password of <userGen.Usuario object at 0x0000020C543D1100>>
+Jack Júnior : vou fazer ainda 40jack_júnior1744 <bound method Usuario.password of <userGen.Usuario object at 0x000001CD36B48290>>
+Eliel Lins : vou fazer ainda 43eliel_lins2334 <bound method Usuario.password of <userGen.Usuario object at 0x000002EAD6B0DBB0>>
